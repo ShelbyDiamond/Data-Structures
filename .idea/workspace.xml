@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ea21f776-5633-4487-ac64-542811132bb8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Y0lOTG4EO6qXo4jCPz2waUnUBi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for test_doubly_linked_list.DoublyLinkedListTests">
+    <configuration name="doubly_linked_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Data-Structures" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/doubly_linked_list" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/doubly_linked_list/doubly_linked_list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_binary_search_tree.BinarySearchTreeTests.test_for_each" type="tests" factoryName="Unittests" nameIsGenerated="true">
+      <module name="Data-Structures" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/binary_search_tree" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_binary_search_tree.BinarySearchTreeTests.test_for_each&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_binary_search_tree.BinarySearchTreeTests.test_get_max" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Data-Structures" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/binary_search_tree" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_binary_search_tree.BinarySearchTreeTests.test_get_max&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_binary_search_tree.BinarySearchTreeTests.test_print_traversals" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Data-Structures" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/binary_search_tree" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_binary_search_tree.BinarySearchTreeTests.test_print_traversals&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_doubly_linked_list.DoublyLinkedListTests" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Data-Structures" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/doubly_linked_list" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_doubly_linked_list.DoublyLinkedListTests&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_doubly_linked_list.DoublyLinkedListTests.test_list_remove_from_tail" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Data-Structures" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/doubly_linked_list" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_doubly_linked_list.DoublyLinkedListTests.test_list_remove_from_tail&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for test_doubly_linked_list.DoublyLinkedListTests" />
+        <item itemvalue="Python.doubly_linked_list" />
+        <item itemvalue="Python tests.Unittests for test_doubly_linked_list.DoublyLinkedListTests.test_list_remove_from_tail" />
+        <item itemvalue="Python tests.Unittests for test_binary_search_tree.BinarySearchTreeTests.test_print_traversals" />
+        <item itemvalue="Python tests.Unittests for test_binary_search_tree.BinarySearchTreeTests.test_get_max" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea21f776-5633-4487-ac64-542811132bb8" name="Default Changelist" comment="" />
+      <created>1582087360591</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582087360591</updated>
+      <workItem from="1582087362819" duration="13331000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="635" height="200" key="GridCell.Tab.0.bottom" timestamp="1582317419226">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="635" height="200" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582317419226" />
+    <state width="635" height="200" key="GridCell.Tab.0.center" timestamp="1582317419226">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="635" height="200" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582317419226" />
+    <state width="635" height="200" key="GridCell.Tab.0.left" timestamp="1582317419226">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="635" height="200" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582317419226" />
+    <state width="635" height="200" key="GridCell.Tab.0.right" timestamp="1582317419226">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="635" height="200" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582317419226" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Data_Structures$Unittests_for_test_doubly_linked_list_DoublyLinkedListTests.coverage" NAME="Unittests for test_doubly_linked_list.DoublyLinkedListTests Coverage Results" MODIFIED="1582317419208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/doubly_linked_list" />
+    <SUITE FILE_PATH="coverage/Data_Structures$doubly_linked_list.coverage" NAME="doubly_linked_list Coverage Results" MODIFIED="1582251768054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/doubly_linked_list" />
+    <SUITE FILE_PATH="coverage/Data_Structures$Unittests_for_test_binary_search_tree_BinarySearchTreeTests_test_print_traversals.coverage" NAME="Unittests for test_binary_search_tree.BinarySearchTreeTests.test_print_traversals Coverage Results" MODIFIED="1582165007818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/binary_search_tree" />
+    <SUITE FILE_PATH="coverage/Data_Structures$Unittests_for_test_binary_search_tree_BinarySearchTreeTests_test_get_max.coverage" NAME="Unittests for test_binary_search_tree.BinarySearchTreeTests.test_get_max Coverage Results" MODIFIED="1582164823956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/binary_search_tree" />
+    <SUITE FILE_PATH="coverage/Data_Structures$Unittests_for_test_binary_search_tree_BinarySearchTreeTests_test_contains.coverage" NAME="Unittests for test_binary_search_tree.BinarySearchTreeTests.test_contains Coverage Results" MODIFIED="1582164818158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/binary_search_tree" />
+    <SUITE FILE_PATH="coverage/Data_Structures$Unittests_for_test_binary_search_tree_BinarySearchTreeTests_test_insert.coverage" NAME="Unittests for test_binary_search_tree.BinarySearchTreeTests.test_insert Coverage Results" MODIFIED="1582164807492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/binary_search_tree" />
+    <SUITE FILE_PATH="coverage/Data_Structures$binary_search_tree.coverage" NAME="binary_search_tree Coverage Results" MODIFIED="1582163491976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/binary_search_tree" />
+    <SUITE FILE_PATH="coverage/Data_Structures$Unittests_for_test_binary_search_tree_BinarySearchTreeTests_test_for_each.coverage" NAME="Unittests for test_binary_search_tree.BinarySearchTreeTests.test_for_each Coverage Results" MODIFIED="1582165192310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/binary_search_tree" />
+    <SUITE FILE_PATH="coverage/Data_Structures$Unittests_for_test_binary_search_tree_BinarySearchTreeTests.coverage" NAME="Unittests for test_binary_search_tree.BinarySearchTreeTests Coverage Results" MODIFIED="1582164793978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/binary_search_tree" />
+    <SUITE FILE_PATH="coverage/Data_Structures$Unittests_for_test_binary_search_tree_BinarySearchTreeTests_test_handle_dupe_insert.coverage" NAME="Unittests for test_binary_search_tree.BinarySearchTreeTests.test_handle_dupe_insert Coverage Results" MODIFIED="1582164813560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/binary_search_tree" />
+    <SUITE FILE_PATH="coverage/Data_Structures$Unittests_for_test_doubly_linked_list_DoublyLinkedListTests_test_list_remove_from_tail.coverage" NAME="Unittests for test_doubly_linked_list.DoublyLinkedListTests.test_list_remove_from_tail Coverage Results" MODIFIED="1582251309184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/doubly_linked_list" />
+  </component>
+</project>
