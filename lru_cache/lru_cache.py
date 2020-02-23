@@ -1,3 +1,8 @@
+from collections import OrderedDict
+
+from doubly_linked_list.doubly_linked_list import DoublyLinkedList
+
+
 class LRUCache:
     """
     Our LRUCache class keeps track of the max number of nodes it
@@ -7,7 +12,11 @@ class LRUCache:
     to every node stored in the cache.
     """
     def __init__(self, limit=10):
-        pass
+        self.limit = limit
+        self.size = 0
+        self.dll = DoublyLinkedList()
+        # self.storage = {}
+        self.storage = OrderedDict({"key": "Shelbs", "keyy": 18, "rebeccapurple": "color"})
 
     """
     Retrieves the value associated with the given key. Also
@@ -17,7 +26,12 @@ class LRUCache:
     key-value pair doesn't exist in the cache.
     """
     def get(self, key):
-        pass
+        if key in self.storage:
+            node = self.storage[key]
+            self.dll.move_to_end(node)
+            return node.value[1]
+        else:
+            return None
 
     """
     Adds the given key-value pair to the cache. The newly-
@@ -30,4 +44,39 @@ class LRUCache:
     the newly-specified value.
     """
     def set(self, key, value):
-        pass
+# add to cache
+# move to front
+# IF MAX CAPACITY - remove tail and add to head
+# if key exists, re-assign new value
+# def set(self, key, value):
+#     if key in self.storage: # Key/Value exists
+#         self.storage[key] = value # Overwrite
+#         self.dll.move_to_front(self.storage[key]) # Set key/value as head
+#         return
+#     if self.size == self.limit: # if MAX CAPACITY is reached
+#         self.storage.popitem(last=True) #remove tail
+#         self.size -= 1 # adjust size after pop
+#     self.storage[key] = value # add node to dict
+#     self.size += 1 # adjust size after adding new node
+#     self.storage.move_to_end(key, False) # move newly added node to head
+#     return self.storage
+# check and see if key is in cache
+        if key in self.storage:
+            node = self.storage[key]
+            node.value = (key, value)
+            self.dll.move_to_end(node)
+            return
+        # If it is int he cache move to front and update value
+        if self.size == self.limit:
+            del self.storage[self.dll.head.value[0]]  # deletes first item in tuple - (key value) pair
+            self.dll.remove_from_head()
+            self.size -= 1
+# If not Add to the front of the cache
+# Defining tail as most recent and head as oldest
+self.dll.add_to_tail((key, value))
+self.storage[key] = self.dll.tail
+self.size += 1
+
+test = LRUCache()
+# print(test.get("keyy"))
+print(test.set('k', 'v'))
